@@ -24,7 +24,7 @@ public class APITestSuiteTest {
     public void testMe2() {
         System.out.println("Some test result 2");
         String someString = new String("Dale");
-        assertTrue(someString.equals("dale"));
+        assertTrue(someString.equals("Dale"));
     }    
     
     @BeforeAll
