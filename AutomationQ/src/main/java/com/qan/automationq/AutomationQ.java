@@ -12,6 +12,7 @@ package com.qan.automationq;
 public class AutomationQ {
 
     public static void main(String[] args) {
+        //NOTE: This is an empty class that is required to create automation tests.
         System.out.println("Hello World!");
     }
 }
